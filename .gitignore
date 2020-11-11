@@ -2,4 +2,6 @@ node_modules/
 build/
 build.js
 build.js.map
+bundle.js
+bundle.js.map
 .DS_Store
