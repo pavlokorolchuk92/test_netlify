@@ -31,7 +31,7 @@ module.exports = {
   ],
 
   output: {
-    filename: 'build/build.js'
+    filename: 'build/bundle.js'
   }
 }
 
