@@ -29,4 +29,9 @@ module.exports = {
       },
     }),
   ],
+
+  output: {
+    filename: 'build/build.js'
+  }
 }
+
